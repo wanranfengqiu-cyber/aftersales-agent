@@ -1,6 +1,6 @@
 # 电商售后 Agent:公开基准评测 · 写前校验 · 可验证执行
 
-一个处理电商退货退款的客服 Agent,用 LangGraph 实现,接入开源客服 Agent 基准 [τ³-bench](https://github.com/sierra-research/tau2-bench)(v1.0.1)和官方基线同模型对比;退款由 Playwright RPA 在模拟商家后台执行,并做故障注入与提示注入测试。
+一个处理电商退货退款的客服 Agent,用 LangGraph 实现,接入开源客服 Agent 基准 [τ³-bench](https://github.com/sierra-research/tau2-bench)(v1.0.1)和官方基线同模型对比,并按 τ³-bench 规范自建了中文七日无理由退货领域;退款由 Playwright RPA 在模拟商家后台执行,并做故障注入与提示注入测试。
 
 > 所有数字都来自本仓库里的脚本和结果文件。Agent、顾客模拟器、评委都是同一个模型(经中转站调用的 DeepSeek),和官方排行榜的设置不同,**绝对分数不能和榜单比,只比同条件下的差别**。
 
@@ -22,10 +22,24 @@
 - **通过率:持平。** 差值区间都包含 0。
 - **违规写操作:基线 9 次 → 自研 0 次。** 用同一套政策硬规则(`tau2_agent/my_guards.py`)离线回放两边的每一次写操作:基线 657 次里 9 次违规(7 次用了顾客没选过的支付方式、1 次订单状态不对、1 次换成同款),自研 654 次 0 次(`analysis/violation_replay.md`)。
 - **失败归因:** 自研 Agent 的 59 次失败里约 44% 来自顾客模拟器或任务标注(例如顾客说"可以"的同一句话里就结束了对话、顾客自己说的取消原因和标准答案不一致);Agent 自己的错主要是选错商品款式 / 订单,这类判断错误代码规则管不到(`analysis/基线失败原因分类.md`)。
-- **没采用的尝试:** 执行前让模型再自查一遍(`my_agent_verify`),通过率没有显著提升,21 次自查拦截多数是误报。
+- **没采用的尝试 1:** 执行前让模型再自查一遍(`my_agent_verify`),通过率没有显著提升,21 次自查拦截多数是误报。
+- **没采用的尝试 2:** 针对 train 上 Agent 自己的错误(选错款式 / 订单、不该转人工),加了 Agent 内部查询工具和"转人工前检查"(`my_agent_v2`):全量 pass^1 0.844,test 40 题 0.819(基线 0.894,差值区间 [−0.144, −0.006]),**反而变差**;选错款式的次数没有减少,多出来的工具调用让对话更长。
 - **小样本的教训:** 前 20 题 × 4 次时自研 pass^4 = 0.900(基线 0.700),全量里同样 20 题只有 0.650,那次"提升"是噪声。
 
-### 2. 可验证执行:故障注入(每格 20 次,共 480 次)
+### 2. 自建中文法规领域:通过率差异不显著,超额退款违规 1 → 0
+
+依据《网络购买商品七日无理由退货暂行办法》(第 6、8–10、12–14、18 条)自建 `zh_aftersales` 领域:7 个工具、50 个任务(七日边界、不适用商品、商品完好、包邮扣运费、赠品、超 2000 元转人工、钻空子、间接注入)。**任务在跑任何结果之前就提交到了本仓库**(见提交记录)。50 题 × 4 次:
+
+| 运行 | pass^1 | pass^2 | pass^3 | pass^4 |
+|---|---|---|---|---|
+| 官方基线 LLMAgent | 0.955 | 0.913 | 0.875 | 0.840 |
+| **自研 my_agent** | **0.975** | 0.953 | 0.935 | **0.920** |
+
+- 差值 95% 区间:pass^1 [−0.020, +0.060],pass^4 [−0.040, +0.200],**不显著**。
+- 失败归因:基线 9 次失败里 8 次、自研 5 次失败全部,是顾客模拟器在说"确认"的同一句里就结束了对话;基线唯一一次真实违规是把 2697 元的退款直接提交(政策要求超过 2000 元转人工),自研 0 次。
+- 这个模型在中文规则上本身就很强(七日边界、不适用商品、运费、赠品几乎全对)。详见 `analysis/zh_main_results.md`;领域代码和任务生成脚本在 `zh_domain/`。
+
+### 3. 可验证执行:故障注入(每格 20 次,共 480 次)
 
 退款交给 Playwright 执行器在自建模拟商家后台(FastAPI + SQLite)完成。格子里:成功率(谎报成功 / 重复退款 / 漏报 / 转人工 次数)。
 
@@ -41,7 +55,7 @@
 
 LLM 自愈定位共调用模型 40 次,选按钮 40/40 正确。局限:后台和故障都是自己设计的("按钮改版"里旧 id 被"保存草稿"占用是刻意构造的),页面按钮少,真实复杂页面上自愈定位不一定这么准;执行器目前是独立实验,还没接进 τ³-bench 的 Agent 流程。
 
-### 3. 提示注入防御:这个模型本身就没上当,防御层没有误伤
+### 4. 提示注入防御:这个模型本身就没上当,防御层没有误伤
 
 4 层防御逐层加:L0 官方基线(无防御)→ L1 提示词 + 工具结果标成"数据"→ L2 + 写前校验 → L3 + 按阶段开放工具。每条用例重复 3 次。
 
@@ -77,7 +91,8 @@ LLM 自愈定位共调用模型 40 次,选按钮 40/40 正确。局限:后台和
 | `tau2_agent/` | 自研 Agent 和写前校验规则;`INSTALL.md` 说明怎么装进 τ³-bench |
 | `analysis/` | 失败归因、规则回放、结果对比(pass^k、train/test、置信区间)脚本和结果 |
 | `executor/` | 模拟商家后台、Playwright 退款执行器、故障注入实验和结果 |
-| `injection/` | 20 条提示注入用例和逐层防御实验 |
+| `injection/` | 两轮共 27 条提示注入用例和逐层防御实验 |
+| `zh_domain/` | 中文法规领域:τ³-bench 领域代码(`tau2_domain/`)、政策文本、50 个任务的生成脚本 |
 | `tests/` | 规则单测、冒烟测试(用假模型,不花钱) |
 
 ## 怎么复现
@@ -95,7 +110,10 @@ python -m pytest tests -q
 python tests/smoke_my_agent.py
 # 4. 故障注入(需要 playwright、fastapi、uvicorn;自愈定位要配置 OPENAI_API_KEY / OPENAI_BASE_URL / MODEL_NAME)
 cd executor && python run_fault_injection.py --runs 20
-# 5. 注入防御(第一轮 / 第二轮;--model 可以换 Agent 模型)
+# 5. 中文法规领域(先按 tau2_agent/INSTALL.md 装好)
+tau2 run --domain zh_aftersales --agent llm_agent --agent-llm openai/deepseek-flash-official --user-llm openai/deepseek-flash-official --num-trials 4 --save-to zh_baseline_t4
+tau2 run --domain zh_aftersales --agent my_agent  --agent-llm openai/deepseek-flash-official --user-llm openai/deepseek-flash-official --num-trials 4 --save-to zh_my_agent_t4
+# 6. 注入防御(第一轮 / 第二轮;--model 可以换 Agent 模型)
 python injection/run_injection.py --set round1 --repeats 3
 python injection/run_injection.py --set round2 --repeats 3
 ```

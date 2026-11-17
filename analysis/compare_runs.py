@@ -38,7 +38,7 @@ def main():
     bname, bpath = a.base.split("=", 1)
     base = load(bpath)
     runs = [(n, load(p)) for n, p in (r.split("=", 1) for r in a.run)]
-    groups = [("全部", sorted(base, key=int))]
+    groups = [("全部", sorted(base, key=lambda t: (len(t), t)))]
     if a.split:
         sp = json.load(open(a.split, encoding="utf-8"))
         groups += [(f"{g}({len(sp[g])} 题)", sp[g]) for g in ("train", "test")]
