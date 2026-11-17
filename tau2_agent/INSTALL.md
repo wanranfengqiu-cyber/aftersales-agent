@@ -25,3 +25,24 @@
 
 注册的 Agent:`my_agent`(主版本)、`my_agent_verify`(+执行前 LLM 自查,未采用)、`my_agent_bare`(全关,检查接入)、
 `my_agent_no_*`(消融)、`my_agent_def1/2/3`(注入防御逐层)。
+
+## 中文法规领域 zh_aftersales(自建)
+
+1. 把 `zh_domain/tau2_domain/` 里的 5 个文件复制到 tau2-bench 的 `src/tau2/domains/zh_aftersales/`;把 `tau2_agent/my_guards_zh.py` 复制到 `src/tau2/agent/`。
+2. 生成数据:`python zh_domain/build_zh_domain.py <tau2-bench>/data/tau2/domains/zh_aftersales`(会写 db.json、tasks.json、split_tasks.json、policy.md、policy_rag.md)。
+3. 在 `src/tau2/registry.py` 里注册 retail 那几行前面加:
+   ```python
+   try:
+       from tau2.domains.zh_aftersales.environment import get_environment as zh_get_env
+       from tau2.domains.zh_aftersales.environment import get_environment_rag as zh_get_env_rag
+       from tau2.domains.zh_aftersales.environment import get_tasks as zh_get_tasks
+       from tau2.domains.zh_aftersales.environment import get_tasks_split as zh_get_splits
+
+       registry.register_domain(zh_get_env, "zh_aftersales")
+       registry.register_tasks(zh_get_tasks, "zh_aftersales", get_task_splits=zh_get_splits)
+       registry.register_domain(zh_get_env_rag, "zh_aftersales_rag")
+       registry.register_tasks(zh_get_tasks, "zh_aftersales_rag", get_task_splits=zh_get_splits)
+   except Exception as e:
+       logger.warning(f"zh_aftersales 领域注册失败,已跳过: {e}")
+   ```
+4. 运行:`tau2 run --domain zh_aftersales --agent my_agent ...`(`zh_aftersales_rag` 是条款不放进政策、要按条查询的版本)。
