@@ -1,0 +1,51 @@
+﻿fault,version,run,status,refunds_in_db,success,false_success,duplicate,missed,transfer,seconds,attempts,llm_calls,heal,screenshot,notes
+none,v1_fixed,0,success,1,True,False,False,False,False,2.3,1,0,[],,
+none,v2_retry,0,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,0,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,0,success,1,True,False,False,False,False,0.3,1,0,[],,
+delay,v1_fixed,0,failed,0,False,False,False,False,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.goto: Timeout 3000ms exceeded.
+Call log:
+  - navigating to ""http://127.0.0."
+delay,v2_retry,0,success,1,True,False,False,False,False,7.5,1,0,[],,
+delay,v3_verify,0,success,1,True,False,False,False,False,12.1,1,0,[],,
+delay,v4_selfheal,0,success,1,True,False,False,False,False,12.1,1,0,[],,
+popup,v1_fixed,0,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v2_retry,0,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,0,transfer_to_human,0,False,False,False,False,True,30.5,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162020\rk-0c8f2c1e13.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v4_selfheal,0,success,1,True,False,False,False,False,16.8,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+element_change,v1_fixed,0,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,0,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v3_verify,0,transfer_to_human,0,False,False,False,False,True,0.8,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162020\rk-a085f4d533.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v4_selfheal,0,success,1,True,False,False,False,False,2.0,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-cc771b"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+login_expired,v1_fixed,0,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v2_retry,0,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v3_verify,0,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v4_selfheal,0,success,1,True,False,False,False,False,0.4,1,0,[],,
+submit_timeout,v1_fixed,0,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v2_retry,0,failed,3,False,False,True,True,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v3_verify,0,success,1,True,False,False,False,False,10.3,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v4_selfheal,0,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)

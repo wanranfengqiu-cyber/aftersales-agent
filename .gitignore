@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+executor/merchant.db
+executor/results/screenshots_*/
+injection/results/*.jsonl
+tests/smoke_events.jsonl

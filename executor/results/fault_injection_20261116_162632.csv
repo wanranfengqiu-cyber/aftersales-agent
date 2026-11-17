@@ -1,0 +1,987 @@
+﻿fault,version,run,status,refunds_in_db,success,false_success,duplicate,missed,transfer,seconds,attempts,llm_calls,heal,screenshot,notes
+none,v1_fixed,0,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v1_fixed,1,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v1_fixed,2,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v1_fixed,3,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v1_fixed,4,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v1_fixed,5,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v1_fixed,6,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v1_fixed,7,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v1_fixed,8,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v1_fixed,9,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v1_fixed,10,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v1_fixed,11,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v1_fixed,12,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v1_fixed,13,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v1_fixed,14,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v1_fixed,15,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v1_fixed,16,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v1_fixed,17,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v1_fixed,18,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v1_fixed,19,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v2_retry,0,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v2_retry,1,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v2_retry,2,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v2_retry,3,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v2_retry,4,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v2_retry,5,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v2_retry,6,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v2_retry,7,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v2_retry,8,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v2_retry,9,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v2_retry,10,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v2_retry,11,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v2_retry,12,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v2_retry,13,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v2_retry,14,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v2_retry,15,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v2_retry,16,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v2_retry,17,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v2_retry,18,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v2_retry,19,success,1,True,False,False,False,False,0.2,1,0,[],,
+none,v3_verify,0,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,1,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,2,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,3,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,4,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,5,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,6,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,7,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,8,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,9,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,10,success,1,True,False,False,False,False,0.4,1,0,[],,
+none,v3_verify,11,success,1,True,False,False,False,False,0.4,1,0,[],,
+none,v3_verify,12,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,13,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,14,success,1,True,False,False,False,False,0.4,1,0,[],,
+none,v3_verify,15,success,1,True,False,False,False,False,0.4,1,0,[],,
+none,v3_verify,16,success,1,True,False,False,False,False,0.4,1,0,[],,
+none,v3_verify,17,success,1,True,False,False,False,False,0.4,1,0,[],,
+none,v3_verify,18,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v3_verify,19,success,1,True,False,False,False,False,0.4,1,0,[],,
+none,v4_selfheal,0,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,1,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,2,success,1,True,False,False,False,False,0.4,1,0,[],,
+none,v4_selfheal,3,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,4,success,1,True,False,False,False,False,0.4,1,0,[],,
+none,v4_selfheal,5,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,6,success,1,True,False,False,False,False,0.4,1,0,[],,
+none,v4_selfheal,7,success,1,True,False,False,False,False,0.4,1,0,[],,
+none,v4_selfheal,8,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,9,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,10,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,11,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,12,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,13,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,14,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,15,success,1,True,False,False,False,False,0.4,1,0,[],,
+none,v4_selfheal,16,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,17,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,18,success,1,True,False,False,False,False,0.3,1,0,[],,
+none,v4_selfheal,19,success,1,True,False,False,False,False,0.3,1,0,[],,
+delay,v1_fixed,0,failed,0,False,False,False,False,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.goto: Timeout 3000ms exceeded.
+Call log:
+  - navigating to ""http://127.0.0."
+delay,v1_fixed,1,failed,0,False,False,False,False,False,5.0,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+delay,v1_fixed,2,failed,0,False,False,False,False,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.goto: Timeout 3000ms exceeded.
+Call log:
+  - navigating to ""http://127.0.0."
+delay,v1_fixed,3,success,1,True,False,False,False,False,5.3,1,0,[],,
+delay,v1_fixed,4,success,1,True,False,False,False,False,4.1,1,0,[],,
+delay,v1_fixed,5,failed,0,False,False,False,False,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.goto: Timeout 3000ms exceeded.
+Call log:
+  - navigating to ""http://127.0.0."
+delay,v1_fixed,6,failed,0,False,False,False,False,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.goto: Timeout 3000ms exceeded.
+Call log:
+  - navigating to ""http://127.0.0."
+delay,v1_fixed,7,success,1,True,False,False,False,False,4.5,1,0,[],,
+delay,v1_fixed,8,failed,0,False,False,False,False,False,5.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+delay,v1_fixed,9,success,1,True,False,False,False,False,5.4,1,0,[],,
+delay,v1_fixed,10,success,1,True,False,False,False,False,5.8,1,0,[],,
+delay,v1_fixed,11,success,1,True,False,False,False,False,5.8,1,0,[],,
+delay,v1_fixed,12,failed,0,False,False,False,False,False,5.9,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+delay,v1_fixed,13,failed,0,False,False,False,False,False,5.3,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+delay,v1_fixed,14,failed,0,False,False,False,False,False,4.9,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+delay,v1_fixed,15,failed,0,False,False,False,False,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.goto: Timeout 3000ms exceeded.
+Call log:
+  - navigating to ""http://127.0.0."
+delay,v1_fixed,16,success,1,True,False,False,False,False,5.4,1,0,[],,
+delay,v1_fixed,17,failed,0,False,False,False,False,False,6.0,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+delay,v1_fixed,18,failed,0,False,False,False,False,False,5.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+delay,v1_fixed,19,failed,0,False,False,False,False,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.goto: Timeout 3000ms exceeded.
+Call log:
+  - navigating to ""http://127.0.0."
+delay,v2_retry,0,success,1,True,False,False,False,False,7.3,1,0,[],,
+delay,v2_retry,1,success,1,True,False,False,False,False,5.7,1,0,[],,
+delay,v2_retry,2,success,1,True,False,False,False,False,8.0,1,0,[],,
+delay,v2_retry,3,success,1,True,False,False,False,False,5.2,1,0,[],,
+delay,v2_retry,4,success,1,True,False,False,False,False,4.1,1,0,[],,
+delay,v2_retry,5,success,1,True,False,False,False,False,6.7,1,0,[],,
+delay,v2_retry,6,success,1,True,False,False,False,False,7.3,1,0,[],,
+delay,v2_retry,7,success,1,True,False,False,False,False,4.5,1,0,[],,
+delay,v2_retry,8,success,1,True,False,False,False,False,6.3,1,0,[],,
+delay,v2_retry,9,success,1,True,False,False,False,False,5.4,1,0,[],,
+delay,v2_retry,10,success,1,True,False,False,False,False,5.8,1,0,[],,
+delay,v2_retry,11,success,1,True,False,False,False,False,5.8,1,0,[],,
+delay,v2_retry,12,success,1,True,False,False,False,False,6.1,1,0,[],,
+delay,v2_retry,13,success,1,True,False,False,False,False,5.6,1,0,[],,
+delay,v2_retry,14,success,1,True,False,False,False,False,5.3,1,0,[],,
+delay,v2_retry,15,success,1,True,False,False,False,False,5.7,1,0,[],,
+delay,v2_retry,16,success,1,True,False,False,False,False,5.4,1,0,[],,
+delay,v2_retry,17,success,1,True,False,False,False,False,6.6,1,0,[],,
+delay,v2_retry,18,success,1,True,False,False,False,False,5.4,1,0,[],,
+delay,v2_retry,19,success,1,True,False,False,False,False,6.9,1,0,[],,
+delay,v3_verify,0,success,1,True,False,False,False,False,12.1,1,0,[],,
+delay,v3_verify,1,success,1,True,False,False,False,False,11.4,1,0,[],,
+delay,v3_verify,2,success,1,True,False,False,False,False,11.5,1,0,[],,
+delay,v3_verify,3,success,1,True,False,False,False,False,10.8,1,0,[],,
+delay,v3_verify,4,success,1,True,False,False,False,False,8.6,1,0,[],,
+delay,v3_verify,5,success,1,True,False,False,False,False,14.2,1,0,[],,
+delay,v3_verify,6,success,1,True,False,False,False,False,12.3,1,0,[],,
+delay,v3_verify,7,success,1,True,False,False,False,False,9.4,1,0,[],,
+delay,v3_verify,8,success,1,True,False,False,False,False,11.5,1,0,[],,
+delay,v3_verify,9,success,1,True,False,False,False,False,11.0,1,0,[],,
+delay,v3_verify,10,success,1,True,False,False,False,False,10.8,1,0,[],,
+delay,v3_verify,11,success,1,True,False,False,False,False,12.4,1,0,[],,
+delay,v3_verify,12,success,1,True,False,False,False,False,11.3,1,0,[],,
+delay,v3_verify,13,success,1,True,False,False,False,False,12.5,1,0,[],,
+delay,v3_verify,14,success,1,True,False,False,False,False,12.4,1,0,[],,
+delay,v3_verify,15,success,1,True,False,False,False,False,11.0,1,0,[],,
+delay,v3_verify,16,success,1,True,False,False,False,False,10.6,1,0,[],,
+delay,v3_verify,17,success,1,True,False,False,False,False,12.9,1,0,[],,
+delay,v3_verify,18,success,1,True,False,False,False,False,9.8,1,0,[],,
+delay,v3_verify,19,success,1,True,False,False,False,False,12.6,1,0,[],,
+delay,v4_selfheal,0,success,1,True,False,False,False,False,12.1,1,0,[],,
+delay,v4_selfheal,1,success,1,True,False,False,False,False,11.4,1,0,[],,
+delay,v4_selfheal,2,success,1,True,False,False,False,False,11.5,1,0,[],,
+delay,v4_selfheal,3,success,1,True,False,False,False,False,10.8,1,0,[],,
+delay,v4_selfheal,4,success,1,True,False,False,False,False,8.9,1,0,[],,
+delay,v4_selfheal,5,success,1,True,False,False,False,False,14.1,1,0,[],,
+delay,v4_selfheal,6,success,1,True,False,False,False,False,12.2,1,0,[],,
+delay,v4_selfheal,7,success,1,True,False,False,False,False,9.3,1,0,[],,
+delay,v4_selfheal,8,success,1,True,False,False,False,False,11.4,1,0,[],,
+delay,v4_selfheal,9,success,1,True,False,False,False,False,11.0,1,0,[],,
+delay,v4_selfheal,10,success,1,True,False,False,False,False,10.8,1,0,[],,
+delay,v4_selfheal,11,success,1,True,False,False,False,False,12.4,1,0,[],,
+delay,v4_selfheal,12,success,1,True,False,False,False,False,11.2,1,0,[],,
+delay,v4_selfheal,13,success,1,True,False,False,False,False,12.6,1,0,[],,
+delay,v4_selfheal,14,success,1,True,False,False,False,False,12.4,1,0,[],,
+delay,v4_selfheal,15,success,1,True,False,False,False,False,11.0,1,0,[],,
+delay,v4_selfheal,16,success,1,True,False,False,False,False,10.6,1,0,[],,
+delay,v4_selfheal,17,success,1,True,False,False,False,False,12.8,1,0,[],,
+delay,v4_selfheal,18,success,1,True,False,False,False,False,9.8,1,0,[],,
+delay,v4_selfheal,19,success,1,True,False,False,False,False,12.6,1,0,[],,
+popup,v1_fixed,0,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,1,failed,0,False,False,False,False,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,2,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,3,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,4,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,5,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,6,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,7,failed,0,False,False,False,False,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,8,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,9,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,10,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,11,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,12,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,13,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,14,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,15,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,16,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,17,failed,0,False,False,False,False,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,18,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v1_fixed,19,failed,0,False,False,False,False,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+popup,v2_retry,0,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,1,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,2,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,3,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,4,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,5,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,6,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,7,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,8,failed,0,False,False,False,False,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,9,failed,0,False,False,False,False,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,10,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,11,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,12,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,13,failed,0,False,False,False,False,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,14,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,15,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,16,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,17,failed,0,False,False,False,False,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,18,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v2_retry,19,failed,0,False,False,False,False,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,0,transfer_to_human,0,False,False,False,False,True,30.5,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-e52e2e6b3c.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,1,transfer_to_human,0,False,False,False,False,True,30.5,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-44d453ad8c.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,2,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-b92675bc0d.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,3,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-1b375fe48b.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,4,transfer_to_human,0,False,False,False,False,True,30.5,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-09deaaa909.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,5,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-cec27bba5b.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,6,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-65fa6d661e.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,7,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-7ef8757f0e.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,8,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-afa3cf83aa.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,9,transfer_to_human,0,False,False,False,False,True,30.5,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-3446100d07.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,10,transfer_to_human,0,False,False,False,False,True,30.5,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-3d746367f9.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,11,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-55b381b43a.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,12,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-26f34debf3.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,13,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-e085fb6390.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,14,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-1ee9c42947.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,15,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-eed51e8bd5.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,16,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-c58fcbdeb0.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,17,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-2072e2371b.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,18,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-1886960934.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v3_verify,19,transfer_to_human,0,False,False,False,False,True,30.4,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-a96c4d8781.png,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+popup,v4_selfheal,0,success,1,True,False,False,False,False,14.7,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,1,success,1,True,False,False,False,False,12.9,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,2,success,1,True,False,False,False,False,14.8,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,3,success,1,True,False,False,False,False,13.1,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,4,success,1,True,False,False,False,False,12.6,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,5,success,1,True,False,False,False,False,13.4,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,6,success,1,True,False,False,False,False,13.0,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,7,success,1,True,False,False,False,False,13.5,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,8,success,1,True,False,False,False,False,13.2,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,9,success,1,True,False,False,False,False,13.1,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,10,success,1,True,False,False,False,False,12.7,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,11,success,1,True,False,False,False,False,13.6,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,12,success,1,True,False,False,False,False,13.0,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,13,success,1,True,False,False,False,False,13.4,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,14,success,1,True,False,False,False,False,12.9,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,15,success,1,True,False,False,False,False,12.8,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,16,success,1,True,False,False,False,False,12.9,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,17,success,1,True,False,False,False,False,13.4,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,18,success,1,True,False,False,False,False,13.6,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+popup,v4_selfheal,19,success,1,True,False,False,False,False,13.7,1,1,"[{""idx"": 2, ""tag"": ""button"", ""id"": ""promo-close"", ""text"": ""No thanks"", ""x"": 588, ""y"": 210, ""covered"": false}]",,submit button not clickable -> self-heal
+element_change,v1_fixed,0,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,1,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,2,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,3,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,4,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,5,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,6,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,7,success,0,False,True,False,False,False,0.3,1,0,[],,
+element_change,v1_fixed,8,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,9,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,10,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,11,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,12,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,13,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,14,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,15,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,16,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,17,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,18,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v1_fixed,19,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,0,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,1,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,2,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,3,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,4,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,5,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,6,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,7,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,8,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,9,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,10,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,11,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,12,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,13,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,14,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,15,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,16,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,17,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,18,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v2_retry,19,success,0,False,True,False,False,False,0.2,1,0,[],,
+element_change,v3_verify,0,transfer_to_human,0,False,False,False,False,True,0.6,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-31333c4e29.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,1,transfer_to_human,0,False,False,False,False,True,0.6,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-95e2b80f83.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,2,transfer_to_human,0,False,False,False,False,True,0.6,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-51b70bccc9.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,3,transfer_to_human,0,False,False,False,False,True,0.6,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-2291419a09.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,4,transfer_to_human,0,False,False,False,False,True,0.6,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-f36695cab7.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,5,transfer_to_human,0,False,False,False,False,True,0.6,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-85fcf085af.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,6,transfer_to_human,0,False,False,False,False,True,0.6,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-d5db0195f0.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,7,transfer_to_human,0,False,False,False,False,True,0.6,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-3a8726847f.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,8,transfer_to_human,0,False,False,False,False,True,0.6,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-40eb7c8f3f.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,9,transfer_to_human,0,False,False,False,False,True,0.6,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-bc31da0218.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,10,transfer_to_human,0,False,False,False,False,True,0.6,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-66d1c8df39.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,11,transfer_to_human,0,False,False,False,False,True,0.6,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-aa35ec7ecb.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,12,transfer_to_human,0,False,False,False,False,True,0.6,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-6adac40716.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,13,transfer_to_human,0,False,False,False,False,True,0.7,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-f5c8229000.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,14,transfer_to_human,0,False,False,False,False,True,0.7,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-73e7a21942.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,15,transfer_to_human,0,False,False,False,False,True,0.7,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-44e0d7450c.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,16,transfer_to_human,0,False,False,False,False,True,0.7,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-0d6d5936c4.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,17,transfer_to_human,0,False,False,False,False,True,0.7,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-ae2b1e7bee.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,18,transfer_to_human,0,False,False,False,False,True,0.7,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-5251c7fe6d.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v3_verify,19,transfer_to_human,0,False,False,False,False,True,0.7,3,0,[],D:\learn\aftersales-agent\executor\results\screenshots_20261116_162632\rk-4cddc22f83.png,readback: no refund record after submit | readback: no refund record after submit | readback: no refund record after submit
+element_change,v4_selfheal,0,success,1,True,False,False,False,False,2.8,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-4286d4"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,1,success,1,True,False,False,False,False,2.1,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-f7100b"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,2,success,1,True,False,False,False,False,2.2,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-477fc5"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,3,success,1,True,False,False,False,False,1.6,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-d4b03d"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,4,success,1,True,False,False,False,False,2.1,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-599e9e"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,5,success,1,True,False,False,False,False,2.8,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-1aa706"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,6,success,1,True,False,False,False,False,1.5,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-8b9d52"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,7,success,1,True,False,False,False,False,2.0,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-8689ec"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,8,success,1,True,False,False,False,False,2.1,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-5496fc"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,9,success,1,True,False,False,False,False,1.7,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-ec1a85"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,10,success,1,True,False,False,False,False,1.7,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-5d2142"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,11,success,1,True,False,False,False,False,1.8,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-5a615b"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,12,success,1,True,False,False,False,False,2.2,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-72dab7"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,13,success,1,True,False,False,False,False,1.6,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-531d08"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,14,success,1,True,False,False,False,False,1.7,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-1ba64c"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,15,success,1,True,False,False,False,False,1.4,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-9004b9"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,16,success,1,True,False,False,False,False,1.5,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-32e4da"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,17,success,1,True,False,False,False,False,1.5,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-6248b0"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,18,success,1,True,False,False,False,False,1.4,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-aadbda"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+element_change,v4_selfheal,19,success,1,True,False,False,False,False,2.1,2,1,"[{""idx"": 0, ""tag"": ""button"", ""id"": ""confirm-312e11"", ""text"": ""Confirm refund"", ""x"": 36, ""y"": 87, ""covered"": false}]",,readback: no refund record after submit
+login_expired,v1_fixed,0,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,1,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,2,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,3,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,4,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,5,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,6,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,7,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,8,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,9,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,10,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,11,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,12,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,13,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,14,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,15,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,16,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,17,failed,0,False,False,False,False,False,0.2,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,18,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v1_fixed,19,failed,0,False,False,False,False,False,0.1,1,0,[],,attempt 1: RuntimeError: redirected to login
+login_expired,v2_retry,0,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,1,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,2,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,3,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,4,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,5,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,6,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,7,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,8,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,9,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,10,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,11,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,12,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,13,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,14,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,15,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,16,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,17,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,18,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v2_retry,19,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v3_verify,0,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v3_verify,1,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v3_verify,2,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v3_verify,3,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v3_verify,4,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v3_verify,5,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v3_verify,6,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v3_verify,7,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v3_verify,8,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v3_verify,9,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v3_verify,10,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v3_verify,11,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v3_verify,12,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v3_verify,13,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v3_verify,14,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v3_verify,15,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v3_verify,16,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v3_verify,17,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v3_verify,18,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v3_verify,19,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v4_selfheal,0,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v4_selfheal,1,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v4_selfheal,2,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v4_selfheal,3,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v4_selfheal,4,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v4_selfheal,5,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v4_selfheal,6,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v4_selfheal,7,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v4_selfheal,8,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v4_selfheal,9,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v4_selfheal,10,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v4_selfheal,11,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v4_selfheal,12,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v4_selfheal,13,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v4_selfheal,14,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v4_selfheal,15,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v4_selfheal,16,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v4_selfheal,17,success,1,True,False,False,False,False,0.3,1,0,[],,
+login_expired,v4_selfheal,18,success,1,True,False,False,False,False,0.4,1,0,[],,
+login_expired,v4_selfheal,19,success,1,True,False,False,False,False,0.3,1,0,[],,
+submit_timeout,v1_fixed,0,failed,1,False,False,False,True,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,1,failed,1,False,False,False,True,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,2,failed,1,False,False,False,True,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,3,failed,1,False,False,False,True,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,4,failed,1,False,False,False,True,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,5,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,6,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,7,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,8,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,9,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,10,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,11,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,12,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,13,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,14,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,15,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,16,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,17,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,18,failed,1,False,False,False,True,False,3.2,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v1_fixed,19,failed,1,False,False,False,True,False,3.1,1,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 3000ms exceeded.
+Call log:
+  - waiting for locator(""#submit-"
+submit_timeout,v2_retry,0,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,1,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,2,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,3,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,4,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,5,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,6,failed,3,False,False,True,True,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,7,failed,3,False,False,True,True,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,8,failed,3,False,False,True,True,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,9,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,10,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,11,failed,3,False,False,True,True,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,12,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,13,failed,3,False,False,True,True,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,14,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,15,failed,3,False,False,True,True,False,30.3,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,16,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,17,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,18,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v2_retry,19,failed,3,False,False,True,True,False,30.2,3,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 2: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | attempt 3: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit"
+submit_timeout,v3_verify,0,success,1,True,False,False,False,False,10.3,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,1,success,1,True,False,False,False,False,10.3,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,2,success,1,True,False,False,False,False,10.2,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,3,success,1,True,False,False,False,False,10.3,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,4,success,1,True,False,False,False,False,10.2,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,5,success,1,True,False,False,False,False,10.2,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,6,success,1,True,False,False,False,False,10.2,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,7,success,1,True,False,False,False,False,10.3,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,8,success,1,True,False,False,False,False,10.2,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,9,success,1,True,False,False,False,False,10.3,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,10,success,1,True,False,False,False,False,10.3,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,11,success,1,True,False,False,False,False,10.3,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,12,success,1,True,False,False,False,False,10.3,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,13,success,1,True,False,False,False,False,10.3,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,14,success,1,True,False,False,False,False,10.3,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,15,success,1,True,False,False,False,False,10.3,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,16,success,1,True,False,False,False,False,10.2,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,17,success,1,True,False,False,False,False,10.2,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,18,success,1,True,False,False,False,False,10.2,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v3_verify,19,success,1,True,False,False,False,False,10.2,2,0,[],,"attempt 1: TimeoutError: Page.click: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator(""#submit | precheck: already refunded, skip submit"
+submit_timeout,v4_selfheal,0,success,1,True,False,False,False,False,15.4,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,1,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,2,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,3,success,1,True,False,False,False,False,15.4,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,4,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,5,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,6,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,7,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,8,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,9,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,10,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,11,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,12,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,13,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,14,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,15,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,16,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,17,success,1,True,False,False,False,False,15.4,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,18,success,1,True,False,False,False,False,15.4,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
+submit_timeout,v4_selfheal,19,success,1,True,False,False,False,False,15.3,1,0,[],,submit button not clickable -> self-heal | heal: cannot read page (Error)
